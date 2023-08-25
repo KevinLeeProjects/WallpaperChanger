@@ -1,0 +1,16 @@
+C:\Users\maske\source\repos\WallpaperChanger\WallpaperChanger\bin\Debug\net6.0-windows\WallpaperChanger.exe
+C:\Users\maske\source\repos\WallpaperChanger\WallpaperChanger\bin\Debug\net6.0-windows\WallpaperChanger.deps.json
+C:\Users\maske\source\repos\WallpaperChanger\WallpaperChanger\bin\Debug\net6.0-windows\WallpaperChanger.runtimeconfig.json
+C:\Users\maske\source\repos\WallpaperChanger\WallpaperChanger\bin\Debug\net6.0-windows\WallpaperChanger.dll
+C:\Users\maske\source\repos\WallpaperChanger\WallpaperChanger\bin\Debug\net6.0-windows\WallpaperChanger.pdb
+C:\Users\maske\source\repos\WallpaperChanger\WallpaperChanger\obj\Debug\net6.0-windows\WallpaperChanger.Form1.resources
+C:\Users\maske\source\repos\WallpaperChanger\WallpaperChanger\obj\Debug\net6.0-windows\WallpaperChanger.csproj.GenerateResource.cache
+C:\Users\maske\source\repos\WallpaperChanger\WallpaperChanger\obj\Debug\net6.0-windows\WallpaperChanger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maske\source\repos\WallpaperChanger\WallpaperChanger\obj\Debug\net6.0-windows\WallpaperChanger.AssemblyInfoInputs.cache
+C:\Users\maske\source\repos\WallpaperChanger\WallpaperChanger\obj\Debug\net6.0-windows\WallpaperChanger.AssemblyInfo.cs
+C:\Users\maske\source\repos\WallpaperChanger\WallpaperChanger\obj\Debug\net6.0-windows\WallpaperChanger.csproj.CoreCompileInputs.cache
+C:\Users\maske\source\repos\WallpaperChanger\WallpaperChanger\obj\Debug\net6.0-windows\WallpaperChanger.dll
+C:\Users\maske\source\repos\WallpaperChanger\WallpaperChanger\obj\Debug\net6.0-windows\refint\WallpaperChanger.dll
+C:\Users\maske\source\repos\WallpaperChanger\WallpaperChanger\obj\Debug\net6.0-windows\WallpaperChanger.pdb
+C:\Users\maske\source\repos\WallpaperChanger\WallpaperChanger\obj\Debug\net6.0-windows\WallpaperChanger.genruntimeconfig.cache
+C:\Users\maske\source\repos\WallpaperChanger\WallpaperChanger\obj\Debug\net6.0-windows\ref\WallpaperChanger.dll
