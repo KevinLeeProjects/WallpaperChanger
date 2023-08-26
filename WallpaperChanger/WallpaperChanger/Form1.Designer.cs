@@ -64,10 +64,8 @@ namespace WallpaperChanger
 
         private void changeWallpaperButton_Click(object sender, EventArgs e)
         {
-            //Bitmap bitmap = new Bitmap(800, 600); // Set your desired image dimensions
 
             string imagePath = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.MyPictures), "IMG_5598.png");
-            //bitmap.Save(imagePath, ImageFormat.Png);
 
             SystemParametersInfo(SPI_SETDESKWALLPAPER, 0, imagePath, SPIF_UPDATEINIFILE | SPIF_SENDCHANGE);
         }
